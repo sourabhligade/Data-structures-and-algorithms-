@@ -5,6 +5,8 @@ those lines in reverse order (a user can indicate end of input by typing ctrl-D)
 lines=[]
 
 
+
+
 try:
   while True:
     line=input()
