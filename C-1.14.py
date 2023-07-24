@@ -4,6 +4,8 @@ if there is a distinct pair of numbers in the sequence whose product is odd.
 
 def hasDistinctOddProduct(sequence):
     odd_numbers=set()
+
+    
     for num in sequence:
       if num %2!=0:
         if any((num * other_num)%2!=0 for other_num in sequence):
