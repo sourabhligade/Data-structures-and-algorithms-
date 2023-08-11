@@ -6,7 +6,6 @@ lines=[]
 
 
 
-
 try:
   while True:
     line=input()
