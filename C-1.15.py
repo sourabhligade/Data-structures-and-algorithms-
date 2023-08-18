@@ -8,7 +8,8 @@ def hasDistinctnum(sequence):
                 return True
     else:
         return False
-            
+
+
 
 sequence=[1,2,3,4]
 print(hasDistinctnum(sequence))
