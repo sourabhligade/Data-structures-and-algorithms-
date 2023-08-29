@@ -5,8 +5,6 @@ C-1.13
 #opposite order than they were before, and compare this method to an equivalent Python function for doing the same thing
 
 
-
-
 def reVerse(n):
     n.reverse()
     
