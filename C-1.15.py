@@ -11,6 +11,7 @@ def hasDistinctnum(sequence):
 
 
 
+
 sequence=[1,2,3,4]
 print(hasDistinctnum(sequence))
             
