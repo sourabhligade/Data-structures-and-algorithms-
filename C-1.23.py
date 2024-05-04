@@ -3,7 +3,7 @@ write an ele- ment to a list based on an index that may be out of bounds. If tha
 “Don’t try buffer overflow attacks in Python!”
 
 
-myList=[1,2,3,4,5]
+myList=[1,2,3]
 
 try:
   index=5
