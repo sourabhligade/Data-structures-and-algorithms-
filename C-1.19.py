@@ -1,5 +1,4 @@
-#Demonstrate how to use Python list comprehension syntax to produce 
-thelist[ a , b , c ,..., z ],butwithouthavingtotypeall26such characters literally.
+ thelist[ a , b , c ,..., z ],butwithouthavingtotypeall26such characters literally.
 
 
 
