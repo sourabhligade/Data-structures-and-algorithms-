@@ -1,4 +1,4 @@
- thelist[ a , b , c ,..., z ],butwithouthavingtotypeall26such characters literally.
+ helist[ a , b , c ,..., z ],butwithouthavingtotypeall26such characters literally.
 
 
 
